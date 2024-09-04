@@ -1,5 +1,5 @@
-### Olá,
-Atualmente sou Gerente de TI, cursando Ciência da Computação
+### Hello,
+IT Manager at Tholz, Electronics technician, studying Computer Science
 
 <!--
 **hiagoluansilva/hiagoluansilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
