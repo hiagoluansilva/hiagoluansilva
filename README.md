@@ -1,4 +1,3 @@
-### Hello,
 IT Manager at Tholz, Electronics technician, studying Computer Science
 
 <!--
