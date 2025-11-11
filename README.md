@@ -16,4 +16,4 @@ Lidero integrações entre sistemas corporativos (ERPs, automação de processos
 - [sqlserver-utils](link) — rotinas e scripts reutilizáveis para ERP  
 
 ## 📫 Me encontre  
-[LinkedIn](link) | [hlstech.com.br](https://hlstech.com.br) | hiago@hlstech.com.br
+[LinkedIn](link)
