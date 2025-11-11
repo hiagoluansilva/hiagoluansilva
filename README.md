@@ -1,19 +1,18 @@
 # 👋 Olá! Eu sou Hiago Silva  
-Gerente de TI na Tholz | Técnico em Eletrônica | Bacharel em Ciência da Computação  
+🎯 Gerente de TI | Integrações entre ERPs | Automação de Processos | Node.js & SQL Server  
 
-## 🚀 O que eu faço  
-Lidero integrações entre sistemas corporativos (ERPs, automação de processos) e construo soluções em Node.js + SQL Server para gerar eficiência, escalabilidade e valor de negócio.  
+Sou Gerente de Tecnologia na Tholz, com foco em eficiência e escalabilidade por meio de integrações corporativas.  
+Atuo com Totvs Protheus, RM, Ahgora, Node.js e SQL Server — desenvolvendo soluções que conectam áreas como RH, Produção e Contabilidade.  
 
-## 💡 Principais tecnologias  
+## 🚀 Principais stacks
 - Node.js, JavaScript  
-- SQL Server, modelagem de dados  
-- Integrações REST APIs  
-- ERPs: Totvs Protheus, Totvs RM, Ahgora  
+- SQL Server, APIs REST  
+- Totvs Protheus, RM, Ahgora  
+- RD Station, Zenvia (automação de marketing)
 
-## 🧩 Principais projetos  
-- [totvs-integrations-nodejs](link) — integração entre Protheus e RM (exemplo)  
-- [rdstation-zenvia-automation](link) — automação de marketing/lead flows  
-- [sqlserver-utils](link) — rotinas e scripts reutilizáveis para ERP  
+## 🧩 Projetos em destaque
+- [erp-integrations](#) — Integrações Protheus ↔ RM ↔ Ahgora  
+- [automation-node](#) — Automação de processos internos em Node.js  
+- [sql-erp-utils](#) — Scripts e consultas otimizadas para ERPs Totvs  
 
-## 📫 Me encontre  
-[LinkedIn](link)
+📫 [LinkedIn](https://linkedin.com/in/hiago-luan-da-silva)
