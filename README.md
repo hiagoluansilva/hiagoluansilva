@@ -70,7 +70,7 @@ Lidero integrações, modernização de sistemas e automações que eliminam ret
 
 📍 Campo Bom — RS  
 🔗 [LinkedIn](https://br.linkedin.com/in/hiago-luan-da-silva)  
-📧 hiago@hlstech.com.br  
+📧 hiago.silva@hlstech.com.br  
 
 ---
 
